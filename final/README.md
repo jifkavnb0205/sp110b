@@ -1,4 +1,4 @@
-# 期中專案報告:聊天室web server
+# 期中專案報告:聊天室
 程式碼皆修改自github專案:[https://github.com/Darylxyx/Nodejs-Examples/tree/master/Socket.IO](https://github.com/Darylxyx/Nodejs-Examples/tree/master/Socket.IO)。  
 
 ## 功能
