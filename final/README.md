@@ -7,15 +7,17 @@
 通知用戶進入、離開聊天室  
 幫進入聊天室的用戶命名，且名稱不重複
 ```
+##  程式碼
+大致上都已了解並添加註解，持續學習中。  
+[app](https://github.com/jifkavnb0205/sp110b/blob/master/final/Socket.IO/app.js)  
+[server](https://github.com/jifkavnb0205/sp110b/blob/master/final/Socket.IO/server.js)  
+[client](https://github.com/jifkavnb0205/sp110b/blob/master/final/Socket.IO/index.js) 
 ## 使用SocketIO
 SocketIO是基於WebSocket技術，用來實現實時雙向溝通的框架。  
 WebSocket優點:  
 1. 全雙工，伺服器不須等待客戶端發起請求就能發送資料。
 2. 傳送的封包Header更小，減少傳送的封包大小，傳送速度更快。
 
-[app](https://github.com/jifkavnb0205/sp110b/blob/master/final/Socket.IO/app.js)  
-[server](https://github.com/jifkavnb0205/sp110b/blob/master/final/Socket.IO/server.js)  
-[client](https://github.com/jifkavnb0205/sp110b/blob/master/final/Socket.IO/index.js) 
 ## 執行
 ```
 npm install
