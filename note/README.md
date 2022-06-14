@@ -1,5 +1,5 @@
 ## 筆記
-* 文章和圖片部分衍生自維基百科，採用 CC:BY-SA 授權
+* 文章和圖片部分衍生自維基百科，採用 [CC:BY-SA](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC) 授權
 * 本專案中的程式採用MIT 授權
 * 若有用到非以上授權之參考資料及圖片，將會在每週的筆記內皆有標示出處 以下內容皆出自陳鐘誠老師的課程社團以及陳鍾誠老師所提供之sp內的程式碼，加以註解與執行所彙整出來之筆記。  
 * [week1](https://github.com/jifkavnb0205/sp110b/blob/master/note/week1/1.md)  
